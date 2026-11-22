@@ -1,0 +1,10 @@
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+MDK-ARM/第一次作业/
+*.uvguix.*
+*.bak
+*.log
+*.dep
+*.build_log.htm
+*.sct
+.Download
